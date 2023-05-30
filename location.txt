@@ -79,3 +79,6 @@ googleMap.addMarker(new MarkerOptions().position(sit).title("Siddaganga Institut
 googleMap.moveCamera(CameraUpdateFactory.newLatLng(sit));
 }
 }
+
+
+https://console.cloud.google.com/projectselector2/google/maps-apis/credentials
